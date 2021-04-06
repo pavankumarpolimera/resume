@@ -3,7 +3,7 @@
 #### personal details####
 - Age:19
 - Father's name:venkata kondaiah
-- Email Id:polimerapavan#@gmail.com
+- Email Id:polimerapavan3@gmail.com
 ### Educational details###
 ======================
 **B.Tech-CSE**
