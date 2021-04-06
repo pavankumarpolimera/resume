@@ -1,10 +1,10 @@
 # pavan kumar
 =====================
-#### personal details:
+#### personal details####
 - Age:19
 - Father's name:venkata kondaiah
 - Email Id:polimerapavan#@gmail.com
-### Educational details:
+### Educational details###
 ======================
 **B.Tech-CSE**
 - Rvr Jc college of engineering
